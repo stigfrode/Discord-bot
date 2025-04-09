@@ -1,6 +1,6 @@
-# musikk-bot
+# twitch-live-varsling
 
-Mal for en musikkbot
+Mal for Twitch live-varslinger
 
 **Viktig: Konfigurer filene .env og config.json før bruk!**
 
