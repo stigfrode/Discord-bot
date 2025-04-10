@@ -1,0 +1,56 @@
+{
+    "twitch_channels": "Addexio,DALENG_STREAM_COMMUNITY,Flashy84,Games0fTristan,Kjelstra,kristinfj_89,Moneywasterr,TrasMaTech",
+    "discord_announce_channel": "twitch",
+    "discord_mentions": {
+        "921063922549784666": "everyone",
+        "<SOME_TWITCH_CHANNEL_NAME>": "here"
+    },
+    "discord_bot_token": "<CHANGE_ME>",
+    "twitch_client_id": "jlgm60crbtispmzvbidcagev4gmg77",
+    "twitch_oauth_token": "puxul1eu413k6bcc21odhs4d7ywq1i",
+    "twitch_check_interval_ms": 1000,
+    "twitch_use_boxart": true,
+    "messages": {
+        "cooldown_message": "You are on `<duration>` cooldown!",
+        "live_message": "@everyone **{streamer_name}** is now live on Twitch! Check it out: {stream_url}",
+        "end_message": "@everyone **{streamer_name}** has ended their stream on Twitch!",
+        "yt_post_message": "@everyone **{streamer_name}** has posted a new video on YouTube! Check it out: {video_url}"
+    },
+    "clientId": "1153723591033106472",
+    "guildId": "1072297852967059456",
+    "discord_youtube_channel": "1154147327926358119",
+    "yt_channel_id": "UCBc3aJX07agBImuEDGmMjWQ, UCHofpt1QV5Foso-niZWvBRA",
+    "welcomeChannelId": "1072545115249332345",
+    "logChannelId": "1357096871037898893",
+    "verifiedRoleID": "1083552776220581989",
+    "prefix": "/",
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "lavalink.jirayu.net",
+                "port": 13591,
+                "secure": false,
+                "password": "youshallnotpass"
+            }
+        ]
+    }
+}
